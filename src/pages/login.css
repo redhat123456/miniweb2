@@ -1,0 +1,25 @@
+.title-right {
+  width: 219px;
+  height: 47px;
+  font-size: 14px;
+  text-align: left;
+  font-weight: normal;
+  font-style: normal;
+  position: absolute;
+}
+.rich-text {
+}
+.rich-text-p {
+  line-height: 0;
+  margin-bottom: 5px;
+}
+.text {
+  font-family: SourceHanSansSC;
+  font-weight: 400;
+  font-size: 32px;
+  color: rgba(35, 36, 36, 1);
+  font-style: normal;
+  letter-spacing: 0px;
+  line-height: 47px;
+  text-decoration: none;
+}
